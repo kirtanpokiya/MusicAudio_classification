@@ -29,3 +29,5 @@ metal,
 pop,
 reggae,
 rock
+
+**Model used** : Transfer model (VGG16)
